@@ -5,6 +5,8 @@ package com.example.shift.left.quality;
  *
  */
 public class App {
+	
+	private App() {}
 	public static String greet(String name) {
 		return "Hello " + name;
 	}
